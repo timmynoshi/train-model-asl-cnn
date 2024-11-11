@@ -35,3 +35,5 @@ plt.imshow(cv2.cvtColor(image_orig, cv2.COLOR_BGR2RGB))  # Chuyển đổi BGR s
 plt.title(f'Dự đoán: {class_labels[predicted_class[0]]}')
 plt.axis('off')  # Tắt trục
 plt.show()
+
+# alo
